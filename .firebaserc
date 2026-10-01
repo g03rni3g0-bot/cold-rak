@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cold-rak",
+    "cold-rak-alias": "cold-rak"
+  },
+  "targets": {},
+  "etags": {}
+}
